@@ -3,7 +3,7 @@
 
 - 🔭 Currently working on **POS for Julia Frozen Food**
 - 🌱 Currently learning **Docker + CI/CD**
-- 💬 Ask me about **PHP, Laravel, React, Flutter, Go**
+- 💬 Ask me about **PHP, Laravel, React**
 - 📫 Reach me at **arishardisantoso@gmail.com**
 
 ## 🌐 Connect with me
