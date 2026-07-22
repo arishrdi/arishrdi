@@ -45,7 +45,7 @@
 - [Solo Paragon Hotel](https://book.soloparagonhotel.com/) - Hotel booking system
 - [Dinas Pendidikan Surakarta](https://drivedinaspendidikan.surakarta.go.id/) - Government File Server
 - [Eska Electronic](https://eskaelectronic.com/) - Company profile & e-commerce
-- and others....
+- and more....
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
