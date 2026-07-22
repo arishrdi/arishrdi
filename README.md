@@ -39,8 +39,12 @@
 ![](https://streak-stats.demolab.com/?user=arishrdi&theme=dark&hide_border=true)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=arishrdi&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=arishrdi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🚀 Projects
+- [Yourtix](https://yourtix.co.id/) - Event ticketing platform
+- [The Luna Uluwatu](https://booking.thelunauluwatu.com) - Venue rental system
+- [Solo Paragon Hotel](https://book.soloparagonhotel.com/) - Hotel booking system
+- [Dinas Pendidikan Surakarta](https://drivedinaspendidikan.surakarta.go.id/) - Government File Server
+- [Eska Electronic](https://eskaelectronic.com/) - Company profile & e-commerce
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
