@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Aris 👋</h1>
 <p align="center">Full-Stack Developer building web & mobile apps with Laravel, React, and Flutter</p>
 
-- 🔭 Currently working on **POS for Julia Frozen Food**
+- 🔭 Currently working on **ERP & POS for Julia Frozen Food**
 - 🌱 Currently learning **Docker + CI/CD**
 - 💬 Ask me about **PHP, Laravel, React**
 - 📫 Reach me at **arishardisantoso@gmail.com**
